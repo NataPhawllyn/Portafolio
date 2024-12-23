@@ -1,0 +1,7 @@
+10001,papas margaritas,100,1500
+10002,jugo el valle,30,2500
+10003,papas fritoley,70,2000
+10004,jugo hit,90,1500
+10005,gomitas osos,28,1000
+10006,pulpa de jugo,10,3000
+10007,suntea,80,1000

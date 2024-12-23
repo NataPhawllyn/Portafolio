@@ -1,0 +1,14 @@
+parallel  en cpp 
+
+cpp- parallel 
+
+  no  olvidar poner la bandera 
+    hacer  banderaqs  adicionales 
+    
+    se puede  hacer  variable  globales   si la  defino por  fuera  del  #pragma  omp paralllel 
+    
+    
+    for  reduction (+:sum)
+    
+    
+   

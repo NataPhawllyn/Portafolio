@@ -1,0 +1,4 @@
+ds,12,123,Administrador,1200000
+nat,45,12356,Vendedor,2000000
+admin,1234,1018475547,Administrador,1100000
+vendedor,0987,51668166,Vendedor,850000
