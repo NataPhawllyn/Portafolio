@@ -1,0 +1,21 @@
+Numerical Analysis and Parallel Computing with Python
+
+This project demonstrates the application of numerical methods for solving partial differential equations
+(PDEs) and implements a parallel sorting algorithm to optimize the performance of large-scale data processing.
+The solutions are based on computational techniques applied to real-world problems.
+
+
+Contents
+
+-*parcial1_1_neira.py: Numerical Solution for the Korteweg–de Vries (KdV) Equation
+Implements a finite difference method for the numerical solution of the KdV equation with periodic boundary conditions.
+
+-*parcial1_2_neira.py: Parallel Sorting Algorithm
+Utilizes MPI for parallel sorting of a large array, leveraging multiple processors for efficiency.
+
+-*sort_seq.py: Sequential Sorting Algorithm
+A baseline sequential sorting algorithm for comparison with the parallel implementation.
+
+HOW TO RUN
+
+Libraries:  numpy matplotlib numexpr numba
