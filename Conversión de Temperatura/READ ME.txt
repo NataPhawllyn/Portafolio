@@ -1,0 +1,25 @@
+Temperature Conversion Program
+
+This project demonstrates a simple temperature conversion utility implemented in Java. 
+The program converts a user-input temperature from Celsius to Fahrenheit and displays the results.
+
+
+Code Structure
+
+1. Classes
+-*Temperatura2: Handles the attributes and logic for temperature conversion.
+	Attributes:
+		grados: Temperature in Celsius.
+		fahren: Temperature in Fahrenheit.
+	Methods:
+		conversion(): Converts Celsius to Fahrenheit.
+		Getter and setter methods for grados and fahren.
+
+-*Conversion2: Acts as the main class, providing the user interface and program flow.
+Key Tasks: Captures user input.
+Calls the conversion() method from the Temperatura2 class.
+Displays the results.
+
+HOW TO  USE 
+Use the Java compiler to compile both classes,Execute the main class Conversion2.
+

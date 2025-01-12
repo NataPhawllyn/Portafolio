@@ -1,0 +1,26 @@
+Mathematical Modeling and Visualization Projects
+
+This collection of Python scripts demonstrates various applications of mathematical modeling and visualization techniques,
+including polar plots, interaction potentials, and the analysis of HIV patient data. Each script addresses a specific problem,
+providing insights through numerical computations and graphical representations.
+
+
+SCRIPT  DESCRIPTIONS
+
+1. Spiral Plotting
+_*P1a_Neira.py: Generates an Archimedean spiral (r=a+b theta) with a=0 and b=2
+-*P1b_Neira.py: Creates a logarithmic spiral (r=a^theta) with a=0.8
+Illustrates differences between Archimedean and logarithmic spirals.
+
+2. Interaction Potentials
+_*P2a_Neira.py: Analyzes and plots the Lennard-Jones potential and force, with and without Boltzmann normalization.
+-*P2b_Neira.py: Investigates the equilibrium point for molecular interactions, using harmonic oscillators for fine adjustments
+
+3.HIV Patient Data Analysis
+-* P3a_Neira.py: Models HIV cell concentration in a patient using predefined parameters.
+-* P3b_Neira.py: Explores parameter variations (alpha  and  Betta) to analyze their impact on cell concentration dynamics.
+-* P3c_Neira.py: Automatically selects parameters based on error minimization (<20%) between model and data.
+
+HOW TO USE 
+Libraries: numpy, matplotlib, pandas, random.
+
